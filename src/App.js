@@ -218,7 +218,7 @@ function App() {
         </div>
 
         <div className='Hud'>
-          <h1>Lenguaje</h1>
+          <h1>Language</h1>
           
           
           <div>
